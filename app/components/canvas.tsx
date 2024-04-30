@@ -16,7 +16,7 @@ export default function Canvas() {
       )}
     >
       <div className="flex gap-3 items-center">
-        <div className="px-2 font-bold bg-black text-white py-1 rounded-md">
+        <div className="px-2 tabular-nums font-bold bg-black text-white py-1 rounded-md">
           PART {watch('part')}
         </div>
 

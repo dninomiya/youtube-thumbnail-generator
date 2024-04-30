@@ -9,11 +9,11 @@ import { AppConfig } from '@/app.config';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://dninomiya.github.io'),
-  title: 'Code to Image',
-  description: 'Code to Image',
+  title: 'YouTube Thumbnail Generator',
+  description: '',
   openGraph: {
-    title: 'Code to Image',
-    description: 'Code to Image',
+    title: 'YouTube Thumbnail Generator',
+    description: '',
   },
   twitter: {
     card: 'summary_large_image',

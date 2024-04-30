@@ -55,7 +55,7 @@ export default function Sidebar() {
         <div className="space-y-3">
           <h3 className="font-medium text-sm">スタック</h3>
           <div className="border rounded-md">
-            <div className="border-b p-2 grid grid-cols-5 h-12 gap-2">
+            <div className="border-b grid grid-cols-6 gap-1 p-1 h-12">
               {watch('stackIds').map((id) => (
                 <Button
                   onClick={() => {
