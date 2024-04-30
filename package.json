@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@hookform/resolvers": "^3.3.4",
     "@icons-pack/react-simple-icons": "^9.2.0",
     "@radix-ui/react-checkbox": "^1.0.4",
     "@radix-ui/react-dropdown-menu": "^2.0.6",
@@ -27,11 +28,13 @@
     "react": "^18",
     "react-dom": "^18",
     "react-dropzone": "^14.2.3",
+    "react-hook-form": "^7.51.3",
     "react-hotkeys-hook": "^4.4.1",
     "shikiji": "^0.9.12",
     "shikiji-transformers": "^0.9.12",
     "tailwind-merge": "^2.0.0",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "zod": "^3.23.5"
   },
   "devDependencies": {
     "@types/node": "^20",
