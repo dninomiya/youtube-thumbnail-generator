@@ -1,3 +1,3 @@
 export const AppConfig = {
-  repo: 'code-to-image',
+  repo: 'youtube-thumbnail-generator',
 };
